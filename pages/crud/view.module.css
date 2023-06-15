@@ -1,0 +1,16 @@
+.addCustomerbutton {
+  color: white;
+  background-color: #0ead87;
+}
+
+.addCustomerbutton:hover {
+  background-color: #033a2d;
+}
+
+.viewHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
