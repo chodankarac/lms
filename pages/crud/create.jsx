@@ -1,5 +1,5 @@
 import React from "react";
-import SaveCustomerDetailsForm from "../components/SaveCustomerDetailsForm";
+import SaveCustomerDetailsForm from "../../components/SaveCustomerDetailsForm";
 
 function SaveCustomerDetails() {
   return (
